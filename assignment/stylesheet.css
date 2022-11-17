@@ -1,0 +1,38 @@
+header{
+    background-color: brown;
+}
+
+.info {
+    text-align: center;
+    background-color: aqua;
+    border-style: solid;
+    padding: 1px;
+}
+
+.footer {
+    text-align: center;
+    background-color: red;
+}
+
+.section{
+    border: 1px solid black;
+    
+}
+
+.container{
+    border: 2px solid black;
+    max-width: 500px;
+    margin: auto;
+    
+    
+    align-items: center;
+    
+}
+
+
+.car{
+    margin-left: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
